@@ -10,7 +10,7 @@ A file upload looks like one button. Building drive-clone showed me how many dec
 
 None of those show up on a screen. But get one wrong and a user loses a file, or sees one that isn't theirs. I like work where the stakes are real but hidden, and where you can only be sure it's right by thinking it through carefully.
 
-It's also the closest thing in programming to the math I tutored at Dawson. A folder tree is a recursive structure. A permission check is a rule that has to hold on every route, not most of them, the same way a proof can't hold for "most" cases. That's the part that keeps me coming back.
+It's also the closest thing in programming to the math I tutored at Dawson. A folder tree is a recursive structure. A permission check is a rule that has to hold on every route, not most of them, the same way a proof can't hold for "most" cases.
 
 ## What I'm building
 
